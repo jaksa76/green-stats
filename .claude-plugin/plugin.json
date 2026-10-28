@@ -1,0 +1,8 @@
+{
+  "name": "green-stats",
+  "description": "Measure Claude Code token usage across the host and devcontainers, incrementally, and estimate the energy and CO2 behind it.",
+  "version": "0.1.0",
+  "author": {
+    "name": "jaksa76"
+  }
+}
